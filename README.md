@@ -1,3 +1,3 @@
 # Resume
 
-Just hosting my resume on here.
+Just hosting my resume on here
